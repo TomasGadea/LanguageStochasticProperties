@@ -15,8 +15,10 @@ In this repository you can find a [jupyter notebook](https://jupyter.org/) creat
 
 This notebook belongs to the Lab sessions of the subject TEOI (Theory of Information) taught at the [DSE](https://dse.upc.edu/ca) degree at [UPC](https://www.upc.edu/ca).
 
+<br>
 
+<br>
 
-<a href="https://telecos.upc.edu/ca"><img src="images/telecos-logo.png" height=50 align=left></a>
-<a href="https://www.fib.upc.edu/"><img src="images/fib-logo.png" height=50 align=left></a>
-<a href="https://fme.upc.edu/ca"><img src="images/fme-logo.png" height=50 align=left></a>
+<a href="https://telecos.upc.edu/ca"><img src="images/telecos-logo.png" height=40 align=left></a>
+<a href="https://www.fib.upc.edu/"><img src="images/fib-logo.png" height=40 align=left></a>
+<a href="https://fme.upc.edu/ca"><img src="images/fme-logo.png" height=35 align=left></a>
